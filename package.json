@@ -1,7 +1,6 @@
 {
   "name": "discordbot",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +13,15 @@
     "@discordjs/rest": "^0.2.0-canary.0",
     "discord-api-types": "^0.25.2",
     "discord.js": "^13.3.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daskyy/discordbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Daskyy/discordbot/issues"
+  },
+  "homepage": "https://github.com/Daskyy/discordbot#readme",
+  "description": ""
 }
